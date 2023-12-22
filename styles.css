@@ -1,7 +1,7 @@
 /*  your css code here. If applicable */
 .hero {
-    display: flex;
-    justify-content: space-evenly;
+    display:flex;
+    justify-content:center;
     align-items:center;
     
 }
