@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+.hero{
+	display:flex;
+	justify-content :center;
+	align-items :center;
+}
+#card_img{
+	
+	width:100%
+		height :100%
+	object-fit :cover;
+}
+button{
+	padding:10px;
+		background-color:rgb(254,0,0);
+	color:white;
+	border-radius:0px;
+}
